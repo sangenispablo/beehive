@@ -2,7 +2,9 @@
   "name": "beehive",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "format": "nx format:write"
+  },
   "private": true,
   "dependencies": {},
   "devDependencies": {
